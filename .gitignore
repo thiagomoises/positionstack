@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/PositionStack/bin
+/src/PositionStack/obj
+/src/PositionStack.DependencyInjection/bin
+/src/PositionStack.DependencyInjection/obj
+/test/PositionStackTest.Api/bin
+/test/PositionStackTest.Api/obj
